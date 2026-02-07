@@ -17,3 +17,4 @@ The script recognizes the following color coding:
 2. Install the required dependencies:
 ```bash
 pip install -r requirements.txt
+![Sleep Chart Sample](sleep_chart_sample.png)
