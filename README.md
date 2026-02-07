@@ -1,5 +1,3 @@
-# sleep-chart-extractor
-A Python script to extract sleep stages (N1, N2, N3, REM) from sleep charts.
 # Sleep Chart Extractor
 A Python tool designed to extract sleep stage data (N1, N2, N3, REM, Wake) from generated sleep chart images. It scans pixel colors and visual grids to convert graphical charts into a time-series sequence.
 ## Features
